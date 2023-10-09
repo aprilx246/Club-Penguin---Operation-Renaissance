@@ -20,6 +20,7 @@ https://operationrenaissance3.wordpress.com/
 
 # Previous Versions:
 Alpha Version 1.1.4
+
 Updates since the previous version:
  - Fixed G centering issues.
  - Fixed Ski Hill error prompts
@@ -52,6 +53,7 @@ Updates since the previous version:
  - Fixed Ski Lodge candle issues
 
 Alpha Update 1.1.3
+
 Updates made since the previous version:
  - Fixed Gadget Room error prompts
  - Fixed Lighthouse error prompts
@@ -76,6 +78,7 @@ Updates made since the previous version:
  - Fixed Jet Pack Guys dialogue
 
 Alpha 1.1.2
+
 Updates made since the previous version:
  - The island is fully traversable
  - Mission 1 is fully playable
