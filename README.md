@@ -4,7 +4,20 @@ To play the game, open up quests/q0/quest.swf in your favourite Flash player.
 Follow my blog for more updates!
 https://operationrenaissance3.wordpress.com/
 
-# Current Release - Alpha Version 1.1.4
+# Current Release -  Alpha Version 1.1.5
+ Changes since the previous version:
+ - Fixed GSM ending
+ - Fixed Telescope boys dialogue
+ - Hid Pet Shop penguins
+ - Fixed Tallest Mountain screen filling issue
+ - Fixed Survival guide disappearing issue
+ - Fixed Ski Hill room loading issue
+ - Added Demo Ending
+ - Added exit buttons to all minigames
+ - Added music to all rooms that were thought to need it
+
+# Previous Versions:
+Alpha Version 1.1.4
 Updates since the previous version:
  - Fixed G centering issues.
  - Fixed Ski Hill error prompts
@@ -36,7 +49,6 @@ Updates since the previous version:
  - Added prompt for Keeper (be sure to give them a click)
  - Fixed Ski Lodge candle issues
 
-# Previous Versions:
 Alpha Update 1.1.3
 Updates made since the previous version:
  - Fixed Gadget Room error prompts
