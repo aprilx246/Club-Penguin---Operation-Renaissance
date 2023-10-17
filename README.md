@@ -6,7 +6,25 @@ To play the game, open up quests/q0/quest.swf in your favourite Flash player.
 Follow my blog for more updates!
 https://operationrenaissance3.wordpress.com/
 
-# Current Release -  Alpha Version 1.1.5
+# Current Release -   Alpha Version 1.1.6
+Changes since the previous version:
+ - Sorted Additional Files
+ - Created Beach Halloween Room
+ - Created Beacon Halloween Room
+ - Created Lighthouse Halloween Room
+ - Created Mountain Base Halloween Room
+ - Created Pet Shop Halloween Room
+ - Created Plaza Halloween Room
+ - Created Ski Hill Halloween Room
+ - Created Ski Village Halloween Room
+ - Created Snow Forts Halloween Room
+ - Created Sport Shop Halloween Room
+ - Begun implementing Elite Puffle functionality
+ - Fixed Mountain Peak Picture functionality
+ 
+# Previous Versions:
+ Alpha Version 1.1.5
+ 
  Changes since the previous version:
  - Fixed GSM ending
  - Fixed Telescope boys dialogue
@@ -18,7 +36,6 @@ https://operationrenaissance3.wordpress.com/
  - Added exit buttons to all minigames
  - Added music to all rooms that were thought to need it
 
-# Previous Versions:
 Alpha Version 1.1.4
 
 Updates since the previous version:
