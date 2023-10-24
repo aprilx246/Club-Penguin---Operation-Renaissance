@@ -6,7 +6,29 @@ To play the game, open up quests/q0/quest.swf in your favourite Flash player.
 Follow my blog for more updates!
 https://operationrenaissance3.wordpress.com/
 
-# Current Release -   Alpha Version 1.1.6
+# Current Release -  Alpha Update 1.1.7 - The Halloween Update
+Updates since the Previous version:
+ - Moved all rooms over to the Halloween variants
+ - Updated Aunt Arctic's Igloo Halloween Room
+ - Updated Iceberg Halloween Rooms
+ - Updated Upscaled Room textures
+ - Updated Wilderness Halloween Rooms
+ - Updated Mine Shack Halloween Room
+ - Updated Mine Halloween Room
+ - Updated Underground Pool Halloween Room
+ - Updated Night Club Halloween Room
+ - Updated Dance Lounge Halloween Room
+ - Updated Ski Lodge Halloween Room
+ - Updated Attic Halloween Room
+ - Updated Behind Lodge Halloween Room
+ - Updated Book Room Halloween Room
+ - Updated Forest Halloween Room
+ - Updated Minigame Halloween textures
+ - Happy Halloween
+
+# Previous Versions:
+Alpha Version 1.1.6
+
 Changes since the previous version:
  - Sorted Additional Files
  - Created Beach Halloween Room
@@ -21,8 +43,7 @@ Changes since the previous version:
  - Created Sport Shop Halloween Room
  - Begun implementing Elite Puffle functionality
  - Fixed Mountain Peak Picture functionality
- 
-# Previous Versions:
+
  Alpha Version 1.1.5
  
  Changes since the previous version:
